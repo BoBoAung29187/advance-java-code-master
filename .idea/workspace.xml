@@ -4,11 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f9e23b9-bb71-4c95-990f-a2c13ee86caa" name="Changes" comment="" />
+    <list default="true" id="3f9e23b9-bb71-4c95-990f-a2c13ee86caa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1streamsandfiles/CopyBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1streamsandfiles/CopyCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1streamsandfiles/CopyLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/FontCellRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/ListRenderingFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/ListRenderingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/LongListFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/LongListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/MyCellRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch6advancedswing/WordListModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7javabeanscomponents/ImageViewerBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/outagain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xanadu.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,7 +43,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FI5rz6pNwPksz7GY7OUiFrYnvd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,9 +53,86 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.LongListTest">
+    <configuration name="CopyCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch1streamsandfiles.CopyCharacters" />
+      <module name="advance-java-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch1streamsandfiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch1streamsandfiles.CopyLines" />
+      <module name="advance-java-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch1streamsandfiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6advancedswing.HelloWorld" />
+      <module name="advance-java-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch6advancedswing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListRenderingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6advancedswing.ListRenderingTest" />
+      <module name="advance-java-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch6advancedswing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6advancedswing.LongListTest" />
+      <module name="advance-java-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch6advancedswing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongListTest" />
+        <item itemvalue="Application.ListRenderingTest" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.CopyLines" />
+        <item itemvalue="Application.CopyCharacters" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
